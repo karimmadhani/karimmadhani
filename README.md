@@ -18,21 +18,17 @@
 
 ## 💫 About Me
 
-Fullstack web developer based in **Sleman, Yogyakarta, Indonesia** — 2 years building and
-maintaining large-scale information systems, mostly **Rekam Medis Elektronik (RME / EHR)**.
-I take things from raw user requirements all the way to deployed, maintained systems:
-database schema, REST APIs, cron automation, Linux/Nginx/Docker infra, and clean responsive UI.
+I'm a software developer focused on the **PHP / Laravel** ecosystem. I build and maintain
+web applications end to end — from database schema and REST APIs to clean, responsive UI.
 
 Lately I **vibe code**: React, Next.js and TypeScript on the frontend, Vue.js + Inertia.js glued
 to Laravel on the backend — with **Hermes** as my AI agent pair-programmer for scaffolding,
 refactors and boilerplate-heavy grunt work.
 
 - 🔭 Currently building Laravel + Inertia (Vue) apps and Next.js/TypeScript frontends
-- 🎓 S1 Informatika — STMIK Sinar Nusantara, Surakarta
 - 🌱 Leveling up on **Next.js**, **TypeScript**, Docker and agentic AI workflows
-- 🛠️ Comfortable with PHP (Laravel, CodeIgniter), JS/jQuery/AJAX, MySQL, PostgreSQL, Proxmox
-- 🗣️ Also do requirement analysis, system presentations and user training for adoptions
-- 💬 Ask me about Laravel, Inertia, RME/EHR systems, MySQL/Postgres tuning, jQuery → modern JS
+- 👯 Open to collaborating on open-source PHP / Laravel projects
+- 💬 Ask me about Laravel, Inertia, MySQL/Postgres query tuning, jQuery → modern JS migration
 - ⚡ Fun fact: I still enjoy a well-placed `dd()` more than I should admit
 
 ---
@@ -139,8 +135,6 @@ Live portfolio → **[portofolio-new-iota.vercel.app](https://portofolio-new-iot
   <a href="https://www.instagram.com/_akmdn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://web.facebook.com/karim.madhani.3" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
-
-<p align="center">📍 Sleman, Yogyakarta, Indonesia &nbsp;·&nbsp; ✉️ karimmadhani3@gmail.com</p>
 
 ---
 
