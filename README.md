@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Karim Madhani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&lines=Software+Developer;Laravel+%26+PHP+Enthusiast;Building+fast%2C+clean+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&lines=Software+Developer;Laravel+%26+PHP+Enthusiast;Vibecoding+with+React%2C+Next.js+%26+AI+agents" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,14 @@
 I'm a software developer focused on the **PHP / Laravel** ecosystem. I build and maintain
 web applications end to end — from database schema and REST APIs to clean, responsive UI.
 
-- 🔭 Currently working on Laravel-based internal & production systems
-- 🌱 Learning deeper into **Laravel**, **PostgreSQL**, and modern frontend tooling
-- 👯 Open to collaborating on open-source PHP projects
-- 💬 Ask me about Laravel, MySQL/Postgres query tuning, jQuery → modern JS migration
+Lately I **vibe code**: React, Next.js and TypeScript on the frontend, Vue.js + Inertia.js glued
+to Laravel on the backend — with **Hermes** as my AI agent pair-programmer for scaffolding,
+refactors and boilerplate-heavy grunt work.
+
+- 🔭 Currently building Laravel + Inertia (Vue) apps and Next.js/TypeScript frontends
+- 🌱 Leveling up on **Next.js**, **TypeScript**, Docker and agentic AI workflows
+- 👯 Open to collaborating on open-source PHP / Laravel projects
+- 💬 Ask me about Laravel, Inertia, MySQL/Postgres query tuning, jQuery → modern JS migration
 - ⚡ Fun fact: I still enjoy a well-placed `dd()` more than I should admit
 
 ---
@@ -31,13 +35,18 @@ web applications end to end — from database schema and REST APIs to clean, res
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-8A92AF?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-E38A00?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Inertia](https://img.shields.io/badge/inertia.js-%23FDC680.svg?style=for-the-badge&logo=inertia&logoColor=%23151515)
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232A)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -49,8 +58,11 @@ web applications end to end — from database schema and REST APIs to clean, res
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Tools & Platform**
+**Tools, DevOps & AI Agents**
 
+![Hermes](https://img.shields.io/badge/Hermes_AI_Agent-%237C3AED.svg?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=%23202020)
 ![Composer](https://img.shields.io/badge/Composer-8A6534?style=for-the-badge&logo=composer&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
