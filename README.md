@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmad Karim Madhani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0969DA&center=true&vCenter=true&repeat=false&width=600&lines=Web+Developer;Laravel+%26+PHP+Enthusiast;Vibecoding+with+React%2C+Next.js+%26+AI+agents#gh-light-mode-only" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&lines=Web+Developer;Laravel+%26+PHP+Enthusiast;Vibecoding+with+React%2C+Next.js+%26+AI+agents#gh-dark-mode-only" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=388BFD&center=true&vCenter=true&repeat=false&width=600&lines=Web+Developer;Laravel+%26+PHP+Enthusiast;Vibecoding+with+React%2C+Next.js+%26+AI+agents" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -100,32 +99,22 @@ Live portfolio → **[portofolio-new-iota.vercel.app](https://portofolio-new-iot
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karimmadhani&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true#gh-light-mode-only" alt="GitHub Stats" />
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karimmadhani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=38bdf8&icon_color=f59e0b&text_color=c9d1d9#gh-dark-mode-only" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karimmadhani&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karimmadhani&theme=default&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only" alt="Top Languages" />
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karimmadhani&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=38bdf8&text_color=c9d1d9#gh-dark-mode-only" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karimmadhani&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&title_color=8b949e&text_color=8b949e" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=karimmadhani&theme=github-light&hide_border=true#gh-light-mode-only" alt="GitHub Streak" />
-      <img src="https://streak-stats.demolab.com/?user=karimmadhani&theme=github-dark&hide_border=true&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8#gh-dark-mode-only" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy-psi.vercel.app/?username=karimmadhani&theme=github&no-frame=true&no-bg=true&column=7&margin-w=8#gh-light-mode-only" alt="GitHub Trophies" />
-      <img src="https://github-profile-trophy-psi.vercel.app/?username=karimmadhani&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8#gh-dark-mode-only" alt="GitHub Trophies" />
+      <img src="https://streak-stats.demolab.com/?user=karimmadhani&background=00000000&hide_border=true&stroke=8b949e&ring=388bfd&fire=f59e0b&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/karimmadhani">
-    <img src="https://github-readme-activity-graph-jade.vercel.app/graph?username=karimmadhani&bg_color=ffffff&color=24292f&line=0969da&point=bf8700&area=true&hide_border=true#gh-light-mode-only" width="95%" alt="Contribution Activity Graph" />
-    <img src="https://github-readme-activity-graph-jade.vercel.app/graph?username=karimmadhani&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=f59e0b&area=true&hide_border=true#gh-dark-mode-only" width="95%" alt="Contribution Activity Graph" />
+    <img src="https://github-readme-activity-graph-jade.vercel.app/graph?username=karimmadhani&bg_color=00000000&color=8b949e&line=388bfd&point=f59e0b&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph" />
   </a>
 </p>
 
