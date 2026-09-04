@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmad Karim Madhani 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=388BFD&center=true&vCenter=true&repeat=false&width=600&lines=Web+Developer;Laravel+%26+PHP+Enthusiast;Vibecoding+with+React%2C+Next.js+%26+AI+agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=388BFD&center=true&vCenter=true&repeat=true&width=600&lines=Web+Developer;Laravel+%26+PHP+Enthusiast;Vibecoding+with+React%2C+Next.js+%26+AI+agents" alt="Typing SVG" />
 </p>
 
 <p align="center">
