@@ -86,11 +86,15 @@ Live portfolio → **[portofolio-new-iota.vercel.app](https://portofolio-new-iot
 
 | Project | Description | Stack |
 |---|---|---|
-| **Rekam Medis Elektronik (RME/EHR)** | Large-scale hospital information system — production maintenance, REST API integration, cron automation | Laravel, MySQL/Postgres, jQuery, Linux/Nginx |
-| **Sistem Pakar Diagnosa Penyakit Kucing** | Expert system diagnosing cat diseases using **Forward Chaining** | PHP, MySQL |
-| **Sistem Rekomendasi Pemilihan Kamera** | Recommendation engine using the **Fuzzy Tsukamoto** method | PHP, MySQL |
-| **Yuk Ngoding** | Interactive web-based programming quiz | HTML/CSS, JS, PHP |
-| **Smart Spend** | Personal finance tracker — income, expenses, budgeting, reports | Next.js, React, TypeScript |
+| **Elektronik Rekam Medis (ERM) / SIMRS — RSUD Campurdarat** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, MySQL |
+| **ERM / SIMRS — RSUD Simo** | Same EHR/SIMRS platform deployed for another hospital | CodeIgniter 3, PostgreSQL |
+| **ERM / SIMRS — RS Brayat Minulya** | EHR/SIMRS deployment, registration, billing and reporting | CodeIgniter 3, PostgreSQL |
+| **ERM / SIMRS — RSUD Caruban** | EHR/SIMRS deployment for regional hospital | CodeIgniter 3, PostgreSQL |
+| **Sistem Pakar Diagnosa Penyakit Kucing** | Expert system diagnosing cat diseases from symptoms using **Forward Chaining** | PHP, MySQL |
+| **Sistem Rekomendasi Pemilihan Kamera** | Camera recommendation engine using the **Fuzzy Tsukamoto** method | PHP, MySQL |
+| **Yuk Ngoding** | Programming quiz web — multiple languages, leveled questions | PHP, MySQL, JS |
+| **Smart Spend** | Personal finance tracker — income/expense records, reports & charts | — |
+| **Motolog** | Vehicle service expense tracker — register vehicles, monthly service cost charts, free to use | — |
 
 ---
 
