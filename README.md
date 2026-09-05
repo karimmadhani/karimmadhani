@@ -89,12 +89,12 @@ Live portfolio → **[portofolio-new-iota.vercel.app](https://portofolio-new-iot
 | **Sistem Pakar Diagnosa Penyakit Kucing** | Expert system diagnosing cat diseases from symptoms using **Forward Chaining** | Laravel, MySQL |
 | **Sistem Rekomendasi Pemilihan Kamera** | Camera recommendation engine using the **Fuzzy Tsukamoto** method | Laravel, MySQL |
 | **Yuk Ngoding** | Programming quiz web — multiple languages, leveled questions | Codeigniter 3, MySQL, JS |
-| **Elektronik Rekam Medis (ERM) / SIMRS — RSUD Campurdarat** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, MySQL |
-| **ERM / SIMRS — RSUD Simo** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, PostgreSQL |
-| **ERM / SIMRS — RS Brayat Minulya** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, PostgreSQL |
-| **ERM / SIMRS — RSUD Caruban** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, PostgreSQL |
-| **Smart Spend** | Personal finance tracker — income/expense records, reports & charts | React, Node.js |
-| **Motolog** | Vehicle service expense tracker — register vehicles, monthly service cost charts, free to use | Laravel, |
+| **Elektronik Rekam Medis (ERM) / SIMRS — RSUD Campurdarat** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, JS, MySQL |
+| **ERM / SIMRS — RSUD Simo** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, JS, PostgreSQL |
+| **ERM / SIMRS — RS Brayat Minulya** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, JS, PostgreSQL |
+| **ERM / SIMRS — RSUD Caruban** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, JS, PostgreSQL |
+| **Smart Spend** | Personal finance tracker — income/expense records, reports & charts | React, Node.js, SQLite|
+| **Motolog** | Vehicle service expense tracker — register vehicles, monthly service cost charts, free to use | Laravel, Inertia, Vue.js, PostgreSQL|
 
 ---
 
