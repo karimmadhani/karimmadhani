@@ -86,15 +86,15 @@ Live portfolio → **[portofolio-new-iota.vercel.app](https://portofolio-new-iot
 
 | Project | Description | Stack |
 |---|---|---|
+| **Sistem Pakar Diagnosa Penyakit Kucing** | Expert system diagnosing cat diseases from symptoms using **Forward Chaining** | Laravel, MySQL |
+| **Sistem Rekomendasi Pemilihan Kamera** | Camera recommendation engine using the **Fuzzy Tsukamoto** method | Laravel, MySQL |
+| **Yuk Ngoding** | Programming quiz web — multiple languages, leveled questions | Codeigniter 3, MySQL, JS |
 | **Elektronik Rekam Medis (ERM) / SIMRS — RSUD Campurdarat** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, MySQL |
-| **ERM / SIMRS — RSUD Simo** | Same EHR/SIMRS platform deployed for another hospital | CodeIgniter 3, PostgreSQL |
-| **ERM / SIMRS — RS Brayat Minulya** | EHR/SIMRS deployment, registration, billing and reporting | CodeIgniter 3, PostgreSQL |
-| **ERM / SIMRS — RSUD Caruban** | EHR/SIMRS deployment for regional hospital | CodeIgniter 3, PostgreSQL |
-| **Sistem Pakar Diagnosa Penyakit Kucing** | Expert system diagnosing cat diseases from symptoms using **Forward Chaining** | PHP, MySQL |
-| **Sistem Rekomendasi Pemilihan Kamera** | Camera recommendation engine using the **Fuzzy Tsukamoto** method | PHP, MySQL |
-| **Yuk Ngoding** | Programming quiz web — multiple languages, leveled questions | PHP, MySQL, JS |
-| **Smart Spend** | Personal finance tracker — income/expense records, reports & charts | — |
-| **Motolog** | Vehicle service expense tracker — register vehicles, monthly service cost charts, free to use | — |
+| **ERM / SIMRS — RSUD Simo** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, PostgreSQL |
+| **ERM / SIMRS — RS Brayat Minulya** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, PostgreSQL |
+| **ERM / SIMRS — RSUD Caruban** | Hospital information system: patient, doctor & drug data, registration, cashier, financial reports | CodeIgniter 3, PostgreSQL |
+| **Smart Spend** | Personal finance tracker — income/expense records, reports & charts | React, Node.js |
+| **Motolog** | Vehicle service expense tracker — register vehicles, monthly service cost charts, free to use | Laravel, |
 
 ---
 
